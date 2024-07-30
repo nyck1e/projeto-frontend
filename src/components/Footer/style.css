@@ -6,7 +6,6 @@
 
 .container{
     max-width: 1170px;
-    background-color: blueviolet;
     margin: auto;
 
 }
@@ -37,3 +36,9 @@ ul{
     text-transform: capitalize;
     margin-bottom: 30px;
 }
+
+.coluna li{
+    font-size: 15px;
+    color: #FFFFFF;
+}
+
