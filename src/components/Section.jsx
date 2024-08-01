@@ -1,6 +1,7 @@
 const Section = () => {
     return ( 
         <>
+        <p>Section</p>
         </>
      );
 }

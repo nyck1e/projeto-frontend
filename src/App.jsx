@@ -1,15 +1,9 @@
-import Footer from "./components/Footer";
-import Header from "./components/Header";
-import HomePage from "./pages/HomePage";
-import ProductListingPage from "./pages/ProductListingPage";
+import Paths from "./Routes/Path";
 
 const App = () => {
   return ( 
     <>
-      <HomePage/>
-      <ProductListingPage/>
-      <Header/>
-      <Footer/>
+      <Paths/>
     </>
    );
 }

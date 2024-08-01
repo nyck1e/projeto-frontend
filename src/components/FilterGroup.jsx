@@ -1,6 +1,7 @@
 const FilterGroup = () => {
     return ( 
         <>
+        <p>FilterGroup</p>
         </>
      );
 }
