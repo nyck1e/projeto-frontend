@@ -1,6 +1,7 @@
 const ProductListingPage = () => {
     return ( 
         <>
+            <h1>Lista de Produtos</h1>
         </>
      );
 }
