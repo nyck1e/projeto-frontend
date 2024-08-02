@@ -4,12 +4,11 @@ const Header = () => {
     return ( 
         <header>
             <h1>LOGO</h1>
-            <nav>
-                <ul>
-                    <li><Link></Link>Categorias</li>
-                    <li><Link></Link>Meu Pedidos</li>
-                </ul>
-            </nav>
+            <ul>
+                <li>teste</li>
+                <li>teste2</li>
+                <li>teste3</li>
+            </ul>
         </header>
      );
 }

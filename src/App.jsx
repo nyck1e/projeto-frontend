@@ -1,10 +1,8 @@
-import Paths from "./Routes/Path";
+import Header from "./components/Header";
 
 const App = () => {
   return ( 
-    <>
-      <Paths/>
-    </>
+    <Header/>
    );
 }
  
