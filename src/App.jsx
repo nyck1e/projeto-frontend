@@ -1,9 +1,9 @@
-import Path from "./Routes/Paths";
+import Paths from "./Routes/Paths";
 
 const App = () => {
   return ( 
     <>
-      <Path/>
+      <Paths/>
     </>
    );
 }
